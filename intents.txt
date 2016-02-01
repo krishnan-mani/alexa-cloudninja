@@ -1,0 +1,35 @@
+WhatsNewIntent what’s new
+WhatsNewIntent new
+WhatsNewIntent news
+WhatsNewIntent anything new
+WhatsNewIntent something new
+WhatsNewIntent what is new
+WhatsNewIntent is there something new
+WhatsNewIntent is there anything new
+
+DescribeCurrentServiceIntent Please describe it
+DescribeCurrentServiceIntent Tell me more
+DescribeCurrentServiceIntent What’s that
+DescribeCurrentServiceIntent I want to hear about that
+
+DescribeServiceIntent Tell me more about {ServiceName}
+DescribeServiceIntent Please describe {ServiceName}
+DescribeServiceIntent Can you explain {ServiceName}
+DescribeServiceIntent Please explain {ServiceName}
+
+DescribeUseCasesIntent What do I do with {ServiceName}
+DescribeUseCasesIntent How do I get started with {ServiceName}
+DescribeUseCasesIntent How can I start with {ServiceName}
+
+DescribePricingIntent How much does {ServiceName} cost
+DescribePricingIntent How much will {ServiceName} cost
+DescribePricingIntent How much will I have to pay for {ServiceName}
+DescribePricingIntent Can you tell me about pricing for {ServiceName}
+
+SetServiceNameIntent Set service to {ServiceName}
+SetServiceNameIntent Set service {ServiceName}
+
+DescribeServiceNameIntent What is my status
+DescribeServiceNameIntent What is my service
+DescribeServiceNameIntent What service is set
+DescribeServiceNameIntent Which service is set
