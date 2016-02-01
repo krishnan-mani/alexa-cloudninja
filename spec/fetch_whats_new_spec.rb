@@ -1,4 +1,4 @@
-require_relative '../fetch_whats_new'
+require_relative '../lib/fetch_whats_new'
 
 require 'byebug'
 

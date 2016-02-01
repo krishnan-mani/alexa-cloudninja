@@ -1,7 +1,7 @@
 require 'sinatra/base'
 require 'sinatra/json'
 
-require_relative 'fetch_whats_new'
+require_relative '../lib/fetch_whats_new'
 
 class ReadAWS < Sinatra::Base
 
